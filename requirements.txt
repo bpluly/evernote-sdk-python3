@@ -1,4 +1,4 @@
-oauth2>=1.9.0.post1
+oauth
 oauthlib>=1.0.3
 requests>=2.8.1
 requests-oauthlib>=0.5.0
